@@ -1,7 +1,7 @@
 E6.8 Практическое задание
 
 Для запуска на Linux необходимо выполнить команды:
-docker-compose build
+docker-compose build 
 docker-compose up
 
 Приложение размещено по адресу: http://83.220.171.117:8081/
